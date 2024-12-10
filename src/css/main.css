@@ -109,7 +109,7 @@ header .column span {
    font-size: 1.13rem;
 }
 
-.piano-keys .keyWhite:active {
+.piano-keys .keyWhite.active {
    box-shadow: inset -5px 5px 20px rgba(0, 0, 0, 0.2);
    background: linear-gradient(to bottom #ffffff 0%, #eeeeee 100%);
 }
